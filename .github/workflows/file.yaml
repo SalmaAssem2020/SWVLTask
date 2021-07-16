@@ -17,3 +17,10 @@ jobs:
         with:
           # Specify Browser since container image is compile with Firefox
           browser: chrome
+          # we have already installed all dependencies above
+          record: true
+        env:
+          CYPRESS_RECORD_KEY: "558baf57-3c2a-4f10-907c-b38bfb644ddc"
+          # Recommended: pass the GitHub token lets this action correctly
+          # determine the unique run id necessary to re-run the checks
+          GITHUB_TOKEN: "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"
