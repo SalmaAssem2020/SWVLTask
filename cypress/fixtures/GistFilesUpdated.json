@@ -1,0 +1,5 @@
+{
+      "file1": {"content": "file1UpdatedContent"},
+      "file2": {"content": "file2UpdatedContent"},
+      "file3New": {"content": "file3Content"}
+}
