@@ -5,11 +5,11 @@
   "defaultCommandTimeout": 20000,
   "env": {
     "url": "https://gist.github.com/",
-      "email": "TAG2021Aug@outlook.com",
+      "email": "TAG2021Sep@outlook.com",
       "password":"PassGit2021",
-      "userName":"TAGAug2021",
+      "userName":"TAGSep2021",
      "failOnStatusCode": false,
-     "Authorization": "token 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",
+     "Authorization": "token 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",
       "Accept": "application/vnd.github.v3+json",
       "APIURL": "https://api.github.com/"
      }
