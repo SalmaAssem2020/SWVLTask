@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://gist.github.com/",
-  "projectId": "56fh61",
-  "video": false,
+  "projectId": "nmch28",
+  "video": true,
   "defaultCommandTimeout": 2000,
   "env": {
     "url": "https://gist.github.com/",
