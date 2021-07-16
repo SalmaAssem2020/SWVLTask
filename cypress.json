@@ -2,7 +2,7 @@
   "baseUrl": "https://gist.github.com/",
   "projectId": "nmch28",
   "video": true,
-  "defaultCommandTimeout": 2000,
+  "defaultCommandTimeout": 20000,
   "env": {
     "url": "https://gist.github.com/",
       "email": "TAG2021Jul@outlook.com",
